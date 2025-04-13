@@ -1,8 +1,8 @@
-# GPT2-Pruning-Kit
+## DistilGPT2-Pruning-Kit
 
 ## Overview
 
-**`gpt2-pruning-kit`** is a flexible toolkit for pruning layers in a GPT-2 model. It allows you to:
+**`distilgpt2-pruning-kit`** is a flexible toolkit for pruning layers in a GPT-2 model. It allows you to:
 - Prune individual or multiple layers from GPT-2 models (using `distilgpt2`)
 - Evaluate the impact on **Perplexity (PPL)**, **Inference Speed**, and **Model Parameters**
 - Analyze performance trends across different pruning strategies and ratios
