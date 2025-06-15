@@ -4,4 +4,3 @@ datasets
 pandas
 tqdm
 accelerate
-# Optional: Add specific versions if needed, e.g., torch==2.0.1
