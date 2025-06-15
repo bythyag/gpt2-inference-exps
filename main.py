@@ -5,8 +5,6 @@ import logging
 import argparse
 import os
 from itertools import combinations
-
-# Import configurations and functions from our library
 from pruning_lib import config
 from pruning_lib import model_loader
 from pruning_lib import pruning
