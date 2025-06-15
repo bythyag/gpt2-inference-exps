@@ -1,4 +1,4 @@
-## distilgpt2-pruning-Kit
+## gpt2-pruning-Kit
 
 the project aims to explore the effects of layer pruning on perplexity, parameters, and inference speed. 
 
